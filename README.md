@@ -482,6 +482,7 @@ int _write(int file, uint8_t *ptr, int len)
   }
 
   return -1;
+}
 
 ## Circuit Connections
 
